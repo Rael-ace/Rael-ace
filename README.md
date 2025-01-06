@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rael-ace
-- 👀 I’m interested in Data analytics and AIML. copled with software development
+- 👀 I’m interested in software development, Data analytics copled with AIML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Tech
 - 📫 How to reach me Snapchat RAEL.ace
